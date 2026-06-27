@@ -26,7 +26,7 @@ SQL | PowerBI | Python | Excel
 ---
 
 ## 📬 Contact
-[![LinkedIn](https://www.linkedin.com/in/huyendangn/)
+[LinkedIn](https://www.linkedin.com/in/huyendangn/)
 📧 huyendang.w@gmail.com
 ## 
 
