@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Huyen Dang
 
-🎯 Data Analyst Fresher | E-Commerce Background | Ho Chi Minh City
+🎯 Data Analyst Fresher | E-Commerce Background | Ho Chi Minh City | Vietnam
 
 ---
 
