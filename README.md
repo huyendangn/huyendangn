@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Huyen Dang
 
-🎯 Data Analyst Fresher | E-Commerce Background | Ho Chi Minh City | Vietnam
+👩🏻‍💻 Data Analyst Fresher | E-Commerce Background | Ho Chi Minh City | Vietnam 
 
 ---
 
-## 🙋 About Me
+## 🙋🏻‍♀️ About Me
 - 🎓 Bachelor of Commercial Business – UEH University (GPA 3.89)
 - 📊 Data Analytics – MindX Technology School
 - 💼 1.5+ years in E-Commerce (OnPoint, Remmus)
@@ -20,8 +20,9 @@ SQL | PowerBI | Python | Excel
 ## 📁 Projects
 | Project | Tools | Link |
 |---------|-------|------|
+| Zomato Delivery Time Prediction | Python | [View](https://github.com/huyendangn/zomato-delivery-time) |
+| ABC Bank Churn Prediction | Python | [View](https://github.com/huyendangn/bank-churn-prediction) |
 | Northwind Traders' Business Performance Analysis | SQL, Power BI | [View](https://github.com/huyendangn/northwind-business-analysis) |
-| Zomato Delivery Time Prediction | Python, scikit-learn | [View](https://github.com/huyendangn/zomato-delivery-time) |
 
 ---
 
